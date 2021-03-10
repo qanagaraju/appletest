@@ -16,5 +16,8 @@ public class AppTest
     	System.out.println("Python test");
     	System.out.println("Ruby Test");
     	
+    	System.out.println("This is Git Project");
+    	System.out.println("This is Jenkins Project");
+    	
     }
 }
