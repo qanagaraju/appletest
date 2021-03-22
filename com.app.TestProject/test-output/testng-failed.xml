@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="myproject(failed)">
+    <classes>
+      <class name="com.app.TestCases.AppGratuityCalculator">
+        <methods>
+          <include name="f"/>
+          <include name="closeBrowser"/>
+          <include name="setupsuite"/>
+          <include name="launchbrowser"/>
+        </methods>
+      </class> <!-- com.app.TestCases.AppGratuityCalculator -->
+    </classes>
+  </test> <!-- myproject(failed) -->
+</suite> <!-- Failed suite [Suite] -->
